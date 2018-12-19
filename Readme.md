@@ -8,7 +8,7 @@ This app helps you to track your expentures and income in easy manner and it wil
 3. View recurring transactions.
 4. View my transactions.
 5. View Summery
-6. Add Financila accounts.
+6. Add Financial accounts.
 7. Add Payyees.
 8. Add Payers.
 9. Add Income.
