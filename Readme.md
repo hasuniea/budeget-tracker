@@ -14,4 +14,4 @@ This app helps you to track your expentures and income in easy manner and it wil
 9. Add Income.
 10. Add Expenses.
 11. Add Category.
-12 Search Transactions
+12. Search Transactions
